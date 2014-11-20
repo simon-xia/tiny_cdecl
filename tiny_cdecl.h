@@ -1,3 +1,9 @@
+/*
+ * a tiny parser for basic C declaration using "Spiral Rule"
+ *
+ *												Simon Xia
+ *											Nov. 12, 2014 at UESTC
+ */
 #ifndef _SIMON_CDECL_H_
 #define _SIMON_CDECL_H_
 
