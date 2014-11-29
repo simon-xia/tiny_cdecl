@@ -13,4 +13,4 @@ and tiny cdecl's output is
 
 ![Alt text](./example_output.png)
 
-more details shown in example.c
+more details about usage are shown in example.c  :)
