@@ -1,3 +1,9 @@
+/*
+ * a tiny parser for basic C declaration using "Spiral Rule"
+ *
+ *												Simon Xia
+ *											Nov. 12, 2014 at UESTC
+ */
 #include "tiny_cdecl.h"
 
 #include <stdio.h>

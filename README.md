@@ -1,6 +1,6 @@
 #README
 
-This is a very tiny parser for basic C declaration using "Spiral Rule"
+This is a tiny parser for basic C declaration using "Spiral Rule"
 
 ###EXAMPLE
 I took the famous confusing funcion [signal](http://linux.die.net/man/2/signal) as an example
